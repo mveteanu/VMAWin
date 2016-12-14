@@ -1,0 +1,22 @@
+SVGA256.BGI  Driver pentru grafica SVGA
+VESA.BGI     Driver pentru grafica VESA-SVGA
+DRIVERS.DRV  Arhiva cu drivere BGI
+MOUSE.INC    Folosit de MOUSE.PAS
+DESCRIPT.ION Fisier cu descrieri
+APPBMP.PAS   Pentru manipulat fisiere BMP
+APPGIF.PAS   Unit pentru citire fisiere GIF
+APPMCGA.PAS  Unitul MCGA adaptat pentru VMA-WIN
+BK.PAS       Unit pentru gestionarea background-ului
+XMS.PAS      Unit pentru lucrul cu XMS
+VESADRV.PAS  Unit pentru initializarea modurilor grafice
+UKBD.PAS     Unit pentru simpla utilizare a tastaturii
+MOUSE.PAS    Unit pentru utilizarea mouse-ului
+MATH.PAS     Unit cu functii matematice
+OBJ.PAS      Unit cu obiecte de interfata VMA-WIN
+OBJ2.PAS     Unit cu obiecte de interfata VMA-WIN
+OBJ3.PAS     Unit cu obiecte de interfata VMA-WIN
+FONTGRAF.PAS Unit pentru scrierea de texte .CHR pe directii arbitrare
+FONTS.PAS    Unit pentru folosirea fonturilor romanesti
+CLOCK.PAS    Implementeaza un obiect de tip CEAS
+FILEOS.PAS   Pentru manipulat fisiere de tip Arhiva
+BROWSE.PAS   Implementeaza o fereastra BROWSE
