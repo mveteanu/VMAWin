@@ -14,8 +14,11 @@ Features
 - object-oriented design
 
 ![](img/vmawin1.png)
+
 ![](img/vmawin2.png)
+
 ![](img/fizica.png)
+
 ![](img/mecano.png)
 
 VMA
