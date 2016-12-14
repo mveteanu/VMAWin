@@ -21,4 +21,7 @@ Features
 
 ![](img/mecano.png)
 
+
+Note: Library includes also a modified version of [MCGA library](https://github.com/mveteanu/MCGA) for cases when is desired to embedd MCGA graphics in VMA Win windows.
+
 VMA
