@@ -19,6 +19,15 @@ Features
 - mouse support
 - object-oriented design
 
+Screencast
+----------
+
+- [http://www.vmasoft.net/vmawin.html](http://www.vmasoft.net/vmawin.html)
+
+
+Screenshots
+-----------
+
 ![VMAWin Controls](img/vmawincrop01.png)
 ![VMAWin Controls](img/vmawincrop02.png)
 ![VMAWin Controls](img/vmawincrop03.png)
